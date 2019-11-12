@@ -34,7 +34,7 @@
     "eslint-plugin-json": "2.0.1",
     "eslint-plugin-markdown": "1.0.1",
     "eslint-plugin-prettier": "3.1.1",
-    "hardlydifficult-ethereum-contracts": "0.6.8",
+    "hardlydifficult-ethereum-contracts": "0.7.0",
     "openzeppelin-test-helpers": "0.4.3",
     "prettier": "1.19.1",
     "solium": "1.2.5",
