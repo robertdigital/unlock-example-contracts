@@ -28,7 +28,7 @@ contract("ExternalRefund", accounts => {
       value: await lock.keyPrice()
     });
 
-    token = await tokens.dai.deploy(web3, accounts[1]);
+    token = await tokens.sai.deploy(web3, accounts[1]);
 
     refundingContract = await ExternalRefund.new(
       lock.address,
